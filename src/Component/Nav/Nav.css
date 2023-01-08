@@ -1,0 +1,35 @@
+nav{
+    background-color:#fff;
+    width:100%;
+    max-width:100%;
+    height:auto;
+    padding:5px 0px 5px 30px;
+    overflow: hidden;
+    border-radius:0px;
+
+}
+nav .navbar-brand{
+    color:rgb(112,13,224);
+    font-size:30px;
+    font-weight:bold;
+    margin:0px 50px;
+    text-transform:uppercase;
+
+}
+nav a.nav-link{
+    color:#212121;
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin: 0px 15px;
+}
+nav .imp:hover{
+    color: rgb(112, 13, 224);
+    transition: .3s ease-in-out;
+}
+nav a.first{
+    color:#fff;
+    background-color:rgb(129, 31, 241)
+}
+nav a{
+    text-transform: uppercase;
+}

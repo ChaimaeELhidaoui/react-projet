@@ -1,0 +1,68 @@
+.pricing{
+    margin:50px 0px;
+    padding:25px 0px;
+}
+.pricing h2{
+    color:#000;
+    text-transform: uppercase;
+    font-size:30px;
+    letter-spacing: 1px;
+    margin:25px 0px;
+    font-weight:bold;
+}
+.pricing p{
+    margin:25px 0px;
+}
+.pricing .box{
+    width:100%;
+    max-width:100%;
+    height:auto;
+    padding:10px;
+    text-align:center;
+    margin-top:25px;
+    background-color:#fff;
+    border:1px solid #f6f6f6;
+    box-sizing: border-box;
+    overflow :hidden;
+}
+.pricing .box h6{
+    color:#000;
+    font-size:16px;
+    margin:5px 0px;
+    font-weight:bold;
+    text-transform: uppercase;
+}
+.pricing .box h4{
+    font-size:30px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.pricing .box span{
+    color:#777;
+    font-size:14px;
+    text-transform:uppercase;
+    margin-top:5px;
+}
+.pricing .box ul{
+    margin:15px 0px;
+    padding:0px;
+}
+.pricing .box ul li{
+    color:#ff0000;
+    font-weight:bold;
+    font-size:16px;
+    margin:10px 0px;
+}
+.pricing .box ul li span{
+    color:#000;
+    margin:5px 0px;
+}
+.pricing button{
+    background-color: #ff0000;
+    color:#fff;
+    border: 1px solid #ff0000;
+    box-sizing: border-box;
+    border-radius: 5px;
+    width:140px;
+    height:40px;
+}
